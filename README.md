@@ -6,3 +6,7 @@
 3rd week experiment : constraint satisfaction
 
 4th week experiment : BFS and DFS
+
+5th Week Experiment : BFS and A*
+
+6th Week Experiment : MiniMax Algorithm with Alpha Beta Pruning 
